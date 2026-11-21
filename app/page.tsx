@@ -12,7 +12,7 @@ export default function Home() {
           bearer)
         </li>
       </ul>
-      <p data-push="2">Coalescing check push 2.</p>
+      <p data-push="3">Coalescing check push 3.</p>
       <p>Rendered at {new Date().toISOString()}</p>
     </main>
   )
